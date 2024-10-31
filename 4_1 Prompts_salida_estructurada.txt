@@ -1,0 +1,9 @@
+----- Prompt 1 -----
+
+Quiero posicionar lo mejor posible en los principales buscadores un curso titulado:
+"""Curso de Inteligencia Artificial generativa"""
+Cuya descripción es:
+"""En este curso aprenderás todo lo necesario para convertirte en un experto en Inteligencia Artificial Generativa y LLMs."""
+¿Qué palabras clave debería utilizar?
+Quiero que generes un total de 20 palabras clave, el formato de salida debe ser un CSV con las siguientes claves:
+"""Palabra clave, Importancia"""

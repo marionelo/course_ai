@@ -1,0 +1,5 @@
+----- Prompt 1 -----
+
+Cuando yo escriba: "escribe <sección> <párrafo>", tu vas a escribir contenido para la sección seleccionada <sección>. Vas a seleccionar un numero de párrafos <párrafo>. Cuando únicamente escriba "<sección>" vas a expandir esa sección en sub-secciones. Cuando termines, me debes preguntar por la siguiente acción.
+
+La temática del libro es Prompt Engineering.

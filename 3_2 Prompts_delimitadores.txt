@@ -1,0 +1,21 @@
+----- Prompt 1 -----
+
+Quiero posicionar lo mejor posible en los principales buscadores un curso titulado: Curso de Inteligencia Artificial generativa, cuya descripción es: En este curso aprenderás todo lo necesario para convertirte en un experto en Inteligencia Artificial Generativa y LLMs. ¿Qué palabras clave debería utilizar?
+
+
+----- Prompt 2 -----
+
+Quiero posicionar lo mejor posible en los principales buscadores un curso titulado:
+<titulo>Curso de Inteligencia Artificial generativa</titulo>
+Cuya descripción es:
+<descripción>En este curso aprenderás todo lo necesario para convertirte en un experto en Inteligencia Artificial Generativa y LLMs.</descripción>
+¿Qué palabras clave debería utilizar?
+
+
+----- Prompt 3 -----
+
+Quiero posicionar lo mejor posible en los principales buscadores un curso titulado:
+"""Curso de Inteligencia Artificial generativa"""
+Cuya descripción es:
+"""En este curso aprenderás todo lo necesario para convertirte en un experto en Inteligencia Artificial Generativa y LLMs."""
+¿Qué palabras clave debería utilizar?
